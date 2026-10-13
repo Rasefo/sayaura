@@ -1,4 +1,6 @@
 # sayaura
+### 🏆 5th Place Winner | INNOVerse 1.0 Innovation Challenge (Top 10 out of 112 Teams)
+*Selected for PIERC Incubation Support & Mentorship*
 An AI-powered application that will help people communicate with hard-hearing or deaf people.
 
 ## ️ Project Roadmap
